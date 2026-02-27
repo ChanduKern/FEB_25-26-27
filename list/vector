@@ -1,0 +1,12 @@
+import java.util.*;
+
+public class Test {
+    public static void main(String[] args) {
+
+        Vector<String> v = new Vector<>();
+        v.add("A");
+        v.add("B");
+
+        System.out.println(v);
+    }
+}
