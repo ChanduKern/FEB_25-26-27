@@ -1,0 +1,1 @@
+Collections.sort(list, (a, b) -> a.length() - b.length());
